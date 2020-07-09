@@ -4,7 +4,7 @@
 
     <groupId>dummy-org-new-module</groupId>
     <artifactId>dummy-new-module</artifactId>
-    <version>1.0.7-SNAPSHOT</version>
+    <version>1.0.6</version>
 
     <developers>
         <developer>
